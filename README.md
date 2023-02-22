@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on backend programming projects.
 - 🤔 I’m looking for help with embedded programming.
 - 💬 Ask me about anything
-- 📫 How to reach me: mansimars00@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I will be graduating Bsc Computer Science, wanted to go for embedded programming and will learn Ethical Hacking someday.
 -->
